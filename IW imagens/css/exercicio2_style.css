@@ -39,9 +39,9 @@ nav ul li ul{
     position: absolute;
 }
 
-nav ul li a:hover ul{
-    left:0px;
-    top:30px
+nav ul li:hover ul{
+    left: 0px;
+    top: 30px;
 }
 
 nav ul li ul li{
